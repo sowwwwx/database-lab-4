@@ -14,7 +14,7 @@ DB_CONFIG = {
     "port": 5432,
     "database": "notsteam",
     "user": "postgres",
-    "password": "13098283",  # <- впиши свій пароль тут
+    "password": "qazwsxedc",  # <- впиши свій пароль тут
 }
 
 SEED = 42
